@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value = "mayi_weather"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class = "com.mayi.mayiweather.db.Province"/>
+        <mapping class = "com.mayi.mayiweather.db.City"/>
+        <mapping class = "com.mayi.mayiweather.db.County"/>
+    </list>
+</litepal>
